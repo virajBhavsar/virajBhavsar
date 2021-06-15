@@ -41,5 +41,5 @@
 <a color="fff" href="mailto:viraj1234567898676@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a></br></br>
-<h3><a href="https://virajbhavsar.netlify.app/">open site</a></h3></br>
-<img src="web.png" width="1000px">
+<a href="https://virajbhavsar.netlify.app/"><h3>open site</h3></br>
+<img src="web.png" width="1000px"></a>
