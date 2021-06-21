@@ -1,5 +1,4 @@
 <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">hey! nice to see you</h1>
-<img src="Group 1.png" width="500px"> 
 
 ##  Welcome to my page!
 <p> My name is Viraj Bhavsar and I'm a software developer/DevOps engineer from India, living in Gujrat.</br>
