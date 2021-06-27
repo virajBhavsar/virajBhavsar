@@ -24,9 +24,9 @@
 </p>
 
 
-#### 🔭 I’m currently working on Django Social Media app </br>
-#### 🌱 I’m currently learning Django and openCV </br>
-#### ⚡ Fun fact: i'm batman </br>
+#### 🔭 I’m currently working on React native project </br>
+#### � student </br>
+#### ⚡ Fun fact: i'm the batman </br>
 
 
 ## 📫where to find me?
