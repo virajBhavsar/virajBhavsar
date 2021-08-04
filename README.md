@@ -60,14 +60,5 @@
 
 ## 📫where to find me?
 </br>
-<a href="http://www.linkedin.com/in/viraj-bhavsar" bgcolor="white">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a color="#fff" href="https://twitter.com/BhavsarViraj1">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a color="fff" href="mailto:viraj1234567898676@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a></br></br>
-<h3><a href="https://virajbhavsar.netlify.app/">open site</a></h3></br>
+<h3><a href="https://virajbhavsar.netlify.app/">open static website</a></h3></br>
 <a href="https://virajbhavsar.netlify.app/"><img src="web.png" width="1000px"></a>
