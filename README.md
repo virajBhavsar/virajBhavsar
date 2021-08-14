@@ -53,7 +53,6 @@
   
 
 
-#### 🔭 I’m currently working on chatapp with javascript [MERN]</br>
 #### � student </br>
 #### ⚡ Fun fact: i'm the batman </br>
 
