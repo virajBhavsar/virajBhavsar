@@ -20,12 +20,12 @@
  
 ![npm](https://img.shields.io/badge/npm--lightgrey?labelColor=1572B6&logo=npm&style=for-the-badge&logoColor=black) 
 ![react](https://img.shields.io/badge/react--lightgrey?labelColor=1572B6&logo=react&style=for-the-badge&logoColor=black)
+![reactnative](https://img.shields.io/badge/reactnative--lightgrey?labelColor=1572B6&logo=react&style=for-the-badge&logoColor=black) 
 ![nodejs](https://img.shields.io/badge/nodejs--lightgrey?labelColor=1572B6&logo=node.js&style=for-the-badge&logoColor=black)
 ![express](https://img.shields.io/badge/express--lightgrey?labelColor=1572B6&logo=express&style=for-the-badge&logoColor=black)
 ![redux](https://img.shields.io/badge/redux--lightgrey?labelColor=1572B6&logo=redux&style=for-the-badge&logoColor=black)
 ![async/await](https://img.shields.io/badge/async/await--lightgrey?labelColor=1572B6&logo=async&style=for-the-badge&logoColor=black)
 ![socket.io](https://img.shields.io/badge/socket.io--lightgrey?labelColor=1572B6&logo=socket.io&style=for-the-badge&logoColor=black)
-![reactnative](https://img.shields.io/badge/reactnative--lightgrey?labelColor=1572B6&logo=reactnative&style=for-the-badge&logoColor=black) 
 
 ![python](https://img.shields.io/badge/python-★★★★★-lightgrey?labelColor=eb4034&logo=python&style=for-the-badge&logoColor=black)
 
