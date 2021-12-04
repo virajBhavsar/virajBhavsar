@@ -1,8 +1,8 @@
 <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">hey! nice to see you</h1>
 
 ##  Welcome to my page!
-<p> My name is Viraj Bhavsar and I'm a software engineer from India, living in Gujrat.</br>
-💻  learning new things life is good </p></br>
+<p> My name is Viraj Bhavsar and a software engineer from India, living in Gujarat.</br>
+i'm a full fledged javascript developer 💻</p></br>
 
 ## Things I do
 <h1>
