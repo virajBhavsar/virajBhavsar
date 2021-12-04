@@ -38,6 +38,7 @@
  
 ![mongoDB](https://img.shields.io/badge/mongoDB-★★★★★-lightgrey?labelColor=F7DF1E&logo=mongoDB&style=for-the-badge&logoColor=black)
 ![mysql](https://img.shields.io/badge/mysql-★★★★★-lightgrey?labelColor=F7DF1E&logo=mysql&style=for-the-badge&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-★★★★★-lightgrey?labelColor=F7DF1E&logo=mysql&style=for-the-badge&logoColor=black)
  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
