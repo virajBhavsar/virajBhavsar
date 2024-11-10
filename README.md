@@ -61,5 +61,5 @@ i'm a full fledged javascript developer 💻</p></br>
 
 ## 📫where to find me?
 </br>
-<h3><a href="https://virajbhavsar.netlify.app/">open static website</a></h3></br>
+<h3><a href="https://virajbhavsar.netlify.app/">Portfolio</a></h3></br>
 <a href="https://virajbhavsar.netlify.app/"><img src="web.png" width="1000px"></a>
